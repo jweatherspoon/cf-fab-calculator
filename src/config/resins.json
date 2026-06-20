@@ -6,15 +6,21 @@
     "hardenerRatio": 30
   },
   {
+    "id": "xcr",
+    "name": "XCR Epoxy Coating Resin",
+    "resinRatio": 100,
+    "hardenerRatio": 41
+  },
+  {
     "id": "el160",
     "name": "EL160 High Temp Laminating Resin",
     "resinRatio": 100,
     "hardenerRatio": 35
   },
   {
-    "id": "xcr",
-    "name": "XCR Epoxy Coating Resin",
+    "id": "in2",
+    "name": "IN2 Epoxy Infusion Resin",
     "resinRatio": 100,
-    "hardenerRatio": 41
+    "hardenerRatio": 30
   }
 ]
