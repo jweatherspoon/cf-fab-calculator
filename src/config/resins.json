@@ -1,0 +1,20 @@
+[
+  {
+    "id": "el2",
+    "name": "EL2 Laminating Resin",
+    "resinRatio": 100,
+    "hardenerRatio": 30
+  },
+  {
+    "id": "el160",
+    "name": "EL160 High Temp Laminating Resin",
+    "resinRatio": 100,
+    "hardenerRatio": 35
+  },
+  {
+    "id": "xcr",
+    "name": "XCR Epoxy Coating Resin",
+    "resinRatio": 100,
+    "hardenerRatio": 41
+  }
+]
